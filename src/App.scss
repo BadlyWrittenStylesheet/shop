@@ -1,0 +1,36 @@
+@import "./colors.scss";
+
+.products {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
+    align-items: center;
+    gap: 2em 2em;
+    flex-grow: 1;
+}
+
+main {
+  padding: 2rem;
+  display: flex;
+  gap: 2rem;
+}
+
+@media only screen and (max-width: 768px) {
+  main {
+    flex-direction: column;
+  }
+}
+
+
+@media only screen and (max-width: 1200px) {
+  .products {
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+ }
+}
+
+@media only screen and (min-width: 1200px) {
+  .products {
+    padding: 1rem;
+    gap: 4rem;
+  }
+}
+

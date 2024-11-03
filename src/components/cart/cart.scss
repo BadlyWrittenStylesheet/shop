@@ -1,0 +1,99 @@
+@import "../../colors.scss";
+
+.app-cart-container {
+  display: flex;
+  flex-direction: column;
+    background: $primary;
+    color: $dark;
+    width: 240px;
+    // min-height: 340px;
+    z-index: 2137;
+    // height: clamp(15vh, auto, 35vh);
+    min-height: 15vh;
+    max-height: 40vh;
+    // overflow-y: scroll;
+    position: fixed;
+    right: 6px;
+    bottom: 6px;
+    border-radius: 12px;
+    padding: 12px;
+
+    gap: 6px;
+
+    h2 {
+      text-align: center;
+      font-size: 2rem;
+      border-bottom: 1px solid $secondary;
+    }
+
+    .product-list {
+      overflow-y: scroll;
+      outline: 1px solid $secondary;
+      padding: 6px;
+      display: flex;
+      gap: 6px;
+      padding-right: 12px;
+      flex-direction: column;
+    }
+    .product {
+      display: flex;
+      justify-content: space-between;
+      button {
+        padding-left: 8px;
+        padding-right: 8px;
+        background: none;
+        font-weight: bold;
+      }
+    }
+
+    .price-summary {
+
+      padding-top: 6px;
+      .final-price {
+        font-weight: bold;
+        margin-top: 6px;
+      }
+      >* {
+        display: flex;
+        justify-content: space-between;
+      }
+    }
+
+    .discount-section {
+      display: flex;
+      gap: 12px;
+      padding: 6px 0;
+      input {
+        border: none;
+        border-radius: 3px;
+        background: $text;
+        padding: 6px;
+      }
+
+      button {
+        background: $accent;
+        color: $dark;
+        border-radius: 3px;
+        border: none;
+      }
+    }
+
+    .total {
+        font-weight: bold;
+        margin-top: 30px;
+    }
+
+    button {
+      border: none;
+      border-radius: 3px;
+      background: $accent;
+      color: $dark;
+      padding: .25rem;
+      transition: 200ms;
+      cursor: pointer;
+      &:hover {
+        background: $secondary;
+        color: $text;
+      }
+    }
+}

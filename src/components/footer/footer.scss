@@ -1,0 +1,13 @@
+@import "../../colors.scss";
+
+.app-footer-container {
+    padding: 2rem;
+    background: $dark;
+    color: $text;
+
+    display: flex;
+    // justify-content: space-between;
+    gap: 2rem;
+    align-items: center;
+
+}

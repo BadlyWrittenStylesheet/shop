@@ -1,0 +1,229 @@
+[
+  {
+    "id": 1,
+    "name": "Fluffy Throw Blanket",
+    "category": "Cozy Stuff",
+    "description": "A fluffy throw for maximum coziness.",
+    "price": 25.99,
+    "img": "https://m.media-amazon.com/images/I/716DJ7z2kmL.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Striped Thigh-High Socks",
+    "category": "Cozy Stuff",
+    "description": "Comfy thigh-high socks with cute stripes.",
+    "price": 12.99,
+    "img": "https://m.media-amazon.com/images/I/61aVQuOl70L._AC_SX569_.jpg",
+    "discount": 0.15
+  },
+  {
+    "id": 3,
+    "name": "Weighted Blanket",
+    "category": "Cozy Stuff",
+    "description": "A soothing weighted blanket for better sleep.",
+    "price": 49.99,
+    "img": "https://www.thesofathrowcompany.com/wp-content/uploads/2023/08/IMG_3441.webp"
+  },
+  {
+    "id": 4,
+    "name": "Oversized Hoodie",
+    "category": "Cozy Stuff",
+    "description": "An oversized hoodie for ultimate chill vibes.",
+    "price": 39.99,
+    "img": "https://anilara.com/cdn/shop/files/Anilara_Chrollo_Hoodie_Back_Black.jpg?v=1723040139&width=1445"
+  },
+  {
+    "id": 5,
+    "name": "Plush Slippers",
+    "category": "Cozy Stuff",
+    "description": "Cute plush slippers to keep your feet warm.",
+    "price": 19.99,
+    "img": "https://ae01.alicdn.com/kf/S2033a77e3dc8490c88c1279e246bd62c1.jpg_640x640Q90.jpg_.webp"
+  },
+  {
+    "id": 6,
+    "name": "Sherpa Blanket",
+    "category": "Cozy Stuff",
+    "description": "Super soft sherpa blanket for cold days.",
+    "price": 34.99,
+    "img": "https://cdnx.jumpseller.com/perfectstgo/image/39526866/resize/640/640?1694277887"
+  },
+  {
+    "id": 7,
+    "name": "Animal Print Socks",
+    "category": "Cozy Stuff",
+    "description": "Warm socks with fun animal prints.",
+    "price": 9.99,
+    "img": "https://i.etsystatic.com/29084147/r/il/b660f3/3839664715/il_794xN.3839664715_l92v.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Succulent Set",
+    "category": "Plants",
+    "description": "A set of mini succulents to brighten up your space.",
+    "price": 15.99,
+    "img": "https://m.media-amazon.com/images/I/51iRkFObOHL._AC_SX425_.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Ceramic Cat Planter",
+    "category": "Plants",
+    "description": "A cute ceramic planter shaped like a cat.",
+    "price": 18.99,
+    "img": "https://sparkdazzle.com/cdn/shop/products/SweetieCat_2048x.jpg?v=1649456151"
+  },
+  {
+    "id": 10,
+    "name": "Hanging Plant Pot",
+    "category": "Plants",
+    "description": "A modern hanging pot for small plants.",
+    "price": 22.99,
+    "img": "https://www.stylist.co.uk/images/app/uploads/2020/08/30163108/best-hanging-plant-pots-baskets-hello-marilu-crop-1598801515-1080x1080.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Cactus Plant",
+    "category": "Plants",
+    "description": "Low-maintenance cactus for your desk.",
+    "price": 9.99,
+    "img": "https://thumbs.dreamstime.com/b/shop-home-plants-cacti-different-shapes-pots-194164138.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Glass Terrarium",
+    "category": "Plants",
+    "description": "A stylish glass terrarium for air plants.",
+    "price": 29.99,
+    "img": "https://i.pinimg.com/originals/58/ec/93/58ec937ba83b9e48e3e2cdac078b867f.jpg",
+    "discount": 0.10
+  },
+  {
+    "id": 13,
+    "name": "Elephant Pot",
+    "category": "Plants",
+    "description": "Adorable elephant-shaped plant pot.",
+    "price": 14.99,
+    "img": "https://i.etsystatic.com/12874255/r/il/84f93a/2138671967/il_fullxfull.2138671967_bs6o.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Plant Care Kit",
+    "category": "Plants",
+    "description": "A small care kit for your indoor plants.",
+    "price": 12.99,
+    "img": "https://wethewild.co/cdn/shop/files/9.jpg?v=1686686946"
+  },
+  {
+    "id": 15,
+    "name": "Chainsaw Man Figure",
+    "category": "Anime Merch",
+    "description": "A detailed figurine of Chainsaw Man from the anime.",
+    "price": 34.99,
+    "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage-cdn.hypb.st%2Fhttps%3A%2F%2Fhypebeast.com%2Fimage%2F2022%2F11%2Fchainsaw-man-pop-parade-chainsaw-man-figure-release-info-006.jpg%3Fcbr%3D1%26q%3D90&f=1&nofb=1&ipt=b2687e50827debbdaa2765c7f81d7d352527a725b2eea4102db28d9b81b05419&ipo=images"
+  },
+  {
+    "id": 16,
+    "name": "Oshi No Ko Poster",
+    "category": "Anime Merch",
+    "description": "A colorful poster featuring characters from Oshi No Ko.",
+    "price": 19.99,
+    "img": "https://fwcdn.pl/fpo/93/24/10039324/8082264_1.3.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Sousou no Frieren Keycap Set",
+    "category": "Anime Merch",
+    "description": "Custom keycaps with designs from Sousou no Frieren.",
+    "price": 49.99,
+    "img": "https://i.etsystatic.com/49478480/r/il/096cad/5877746109/il_570xN.5877746109_p8d7.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Alya Poster",
+    "category": "Anime Merch",
+    "description": "A vibrant Alya poster to decorate your space.",
+    "price": 16.99,
+    "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.anime-planet.com%2Fanime%2Fprimary%2Falya-sometimes-hides-her-feelings-in-russian-1.webp%3Ft%3D1679058834&f=1&nofb=1&ipt=dcecc381690572399ad963df4602f1d6dcf100bb3043e461e52ffb23d98603eb&ipo=images"
+  },
+  {
+    "id": 19,
+    "name": "Chainsaw Man Keychain",
+    "category": "Anime Merch",
+    "description": "A keychain featuring Chainsaw Man's iconic design.",
+    "price": 8.99,
+    "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.etsystatic.com%2F33280846%2Fr%2Fil%2Fcda864%2F3640994985%2Fil_570xN.3640994985_j78c.jpg&f=1&nofb=1&ipt=4ee175f9055bd813f3eccf3399e3821f0137becf8d5e7f8513593ffd72071379&ipo=images"
+  },
+  {
+    "id": 20,
+    "name": "Sousou no Frieren Poster",
+    "category": "Anime Merch",
+    "description": "A poster of Sousou no Frieren's stunning visuals.",
+    "price": 14.99,
+    "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fs1.zerochan.net%2FFrieren.600.3135274.jpg&f=1&nofb=1&ipt=a2a89c2a2953cac3ed48dd129be5d700070359c1f7bfea340d80c8df0edb4bce&ipo=images",
+    "discount": 0.35
+  },
+  {
+    "id": 21,
+    "name": "Chibi Character Stickers",
+    "category": "Anime Merch",
+    "description": "Sticker set featuring chibi versions of anime characters.",
+    "price": 5.99,
+    "img": "https://m.media-amazon.com/images/I/81EoJEHIZ5L.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Premium Sketchbook",
+    "category": "Drawing Stuff",
+    "description": "A high-quality sketchbook with thick, acid-free pages perfect for drawing and doodling.",
+    "price": 12.99,
+    "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FS%2Faplus-media%2Fvc%2F52cbdc2b-b5ac-4bde-8c2a-306b951826d0.jpg&f=1&nofb=1&ipt=44ae084e1d14106439ea97cf93b2750f765b2b59ad8b24832fb8b5a5e0b6df5a&ipo=images"
+  },
+  {
+    "id": 23,
+    "name": "Graphite Pencil Set",
+    "category": "Drawing Stuff",
+    "description": "A set of sketching pencils ranging from soft to hard leads, ideal for detailed drawings and shading.",
+    "price": 9.99,
+    "img": "https://ae01.alicdn.com/kf/Hc6d32db25c5f4d68afaf15f15a0544c6q.jpg_960x960.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Art Supplies Pack",
+    "category": "Drawing Stuff",
+    "description": "A collection of essential art supplies, including erasers, sharpeners, and blending tools for your creative projects.",
+    "price": 14.99,
+    "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F71YgJmndXSL.jpg&f=1&nofb=1&ipt=fde3d3c42859425ddd61a528c83c049cb114f297dadf301e0d7bb7d2208bc5b1&ipo=images"
+  },
+  {
+    "id": 25,
+    "name": "Professional Alcohol Markers",
+    "category": "Drawing Stuff",
+    "description": "A set of dual-tip alcohol markers in vibrant colors, perfect for illustrations, manga, and graphic design.",
+    "price": 34.99,
+    "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi5.walmartimages.com%2Fasr%2F7b47774a-bbc8-436f-b894-f8ae006e889c.7b1898698b24e343ef00e529b1cb05ec.jpeg&f=1&nofb=1&ipt=d5dfec2d793e16b8b0342cbd8f6b41eda5bcc0c3768996e8742632547258cd69&ipo=images"
+  },
+  {
+    "id": 26,
+    "name": "Fountain Pen",
+    "category": "Drawing Stuff",
+    "description": "A classic fountain pen with a sleek design, perfect for calligraphy and adding elegant details to your art.",
+    "price": 19.99,
+    "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.shgcdn.com%2Feb31068e-137c-4203-a6dd-ce4d5a750b7b%2F-%2Fformat%2Fauto%2F-%2Fpreview%2F3000x3000%2F-%2Fquality%2Flighter%2F&f=1&nofb=1&ipt=35fdc7d8cdf562e75ecd293f6b4879c50d88d0769abe8e997b3cc0fa1b975a8d&ipo=images"
+  },
+  {
+    "id": 27,
+    "name": "Fineliner Pens",
+    "category": "Drawing Stuff",
+    "description": "A set of fine liner pens with precision tips for detailed drawing, outlining, and intricate designs.",
+    "price": 14.99,
+    "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.htconline.in%2Fimages%2Fthumbs%2F0026318_uni-pin-fineliner-drawing-pen-set-of-6.jpeg&f=1&nofb=1&ipt=e446d99d8ec85f3eaca683f92c6128ebd4e53990039a838a511b2e3144060570&ipo=images"
+  },
+  {
+    "id": 29,
+    "name": "Stylish Art Supply Organizer",
+    "category": "Drawing Stuff",
+    "description": "A chic and functional art supply organizer with multiple compartments, perfect for storing and carrying your favorite drawing materials.",
+    "price": 19.99,
+    "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.artbin.com%2Fresize%2FShared%2FImages%2FProduct%2FArtBin-Three-Tray-Art-Supply-Box-6893AG%2F6893AG-O-Art.jpg%3Fbw%3D1000%26w%3D1000%26bh%3D1000%26h%3D1000&f=1&nofb=1&ipt=be1667586448b2019e3033ce0aacddb277b8dc87dd597d6b7c30b7b4fe18beab&ipo=images"
+  }
+]

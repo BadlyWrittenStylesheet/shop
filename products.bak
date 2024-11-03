@@ -1,0 +1,311 @@
+[
+  {
+    "id": 1,
+    "name": "Fluffy Throw Blanket",
+    "category": "Cozy Stuff",
+    "description": "A fluffy throw for maximum coziness.",
+    "price": 25.99,
+    "img": "https://m.media-amazon.com/images/I/716DJ7z2kmL.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Striped Thigh-High Socks",
+    "category": "Cozy Stuff",
+    "description": "Comfy thigh-high socks with cute stripes.",
+    "price": 12.99,
+    "img": "https://img.ltwebstatic.com/images3_spmp/2023/07/07/1688743170ff20dcdc03fe3b8fd504a6bb2deb3b30_thumbnail_720x.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Weighted Blanket",
+    "category": "Cozy Stuff",
+    "description": "A soothing weighted blanket for better sleep.",
+    "price": 49.99,
+    "img": "https://www.thesofathrowcompany.com/wp-content/uploads/2023/08/IMG_3441.webp"
+  },
+  {
+    "id": 4,
+    "name": "Oversized Hoodie",
+    "category": "Cozy Stuff",
+    "description": "An oversized hoodie for ultimate chill vibes.",
+    "price": 39.99,
+    "img": "https://anilara.com/cdn/shop/files/Anilara_Chrollo_Hoodie_Back_Black.jpg?v=1723040139&width=1445"
+  },
+  {
+    "id": 5,
+    "name": "Plush Slippers",
+    "category": "Cozy Stuff",
+    "description": "Cute plush slippers to keep your feet warm.",
+    "price": 19.99,
+    "img": "https://ae01.alicdn.com/kf/S2033a77e3dc8490c88c1279e246bd62c1.jpg_640x640Q90.jpg_.webp"
+  },
+  {
+    "id": 6,
+    "name": "Sherpa Blanket",
+    "category": "Cozy Stuff",
+    "description": "Super soft sherpa blanket for cold days.",
+    "price": 34.99,
+    "img": "https://cdnx.jumpseller.com/perfectstgo/image/39526866/resize/640/640?1694277887"
+  },
+  {
+    "id": 7,
+    "name": "Animal Print Socks",
+    "category": "Cozy Stuff",
+    "description": "Warm socks with fun animal prints.",
+    "price": 9.99,
+    "img": "https://i.etsystatic.com/29084147/r/il/b660f3/3839664715/il_794xN.3839664715_l92v.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Succulent Set",
+    "category": "Plants",
+    "description": "A set of mini succulents to brighten up your space.",
+    "price": 15.99,
+    "img": "https://m.media-amazon.com/images/I/51iRkFObOHL._AC_SX425_.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Ceramic Cat Planter",
+    "category": "Plants",
+    "description": "A cute ceramic planter shaped like a cat.",
+    "price": 18.99,
+    "img": "https://sparkdazzle.com/cdn/shop/products/SweetieCat_2048x.jpg?v=1649456151"
+  },
+  {
+    "id": 10,
+    "name": "Hanging Plant Pot",
+    "category": "Plants",
+    "description": "A modern hanging pot for small plants.",
+    "price": 22.99,
+    "img": "https://www.stylist.co.uk/images/app/uploads/2020/08/30163108/best-hanging-plant-pots-baskets-hello-marilu-crop-1598801515-1080x1080.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Cactus Plant",
+    "category": "Plants",
+    "description": "Low-maintenance cactus for your desk.",
+    "price": 9.99,
+    "img": "https://thumbs.dreamstime.com/b/shop-home-plants-cacti-different-shapes-pots-194164138.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Glass Terrarium",
+    "category": "Plants",
+    "description": "A stylish glass terrarium for air plants.",
+    "price": 29.99,
+    "img": "https://i.pinimg.com/originals/58/ec/93/58ec937ba83b9e48e3e2cdac078b867f.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Elephant Pot",
+    "category": "Plants",
+    "description": "Adorable elephant-shaped plant pot.",
+    "price": 14.99,
+    "img": "https://i.etsystatic.com/12874255/r/il/84f93a/2138671967/il_fullxfull.2138671967_bs6o.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Plant Care Kit",
+    "category": "Plants",
+    "description": "A small care kit for your indoor plants.",
+    "price": 12.99
+  },
+  {
+    "id": 15,
+    "name": "Chainsaw Man Figure",
+    "category": "Anime Merch",
+    "description": "A detailed figurine of Chainsaw Man from the anime.",
+    "price": 34.99
+  },
+  {
+    "id": 16,
+    "name": "Oshi No Ko Poster",
+    "category": "Anime Merch",
+    "description": "A colorful poster featuring characters from Oshi No Ko.",
+    "price": 19.99
+  },
+  {
+    "id": 17,
+    "name": "Sousou no Frieren Keycap Set",
+    "category": "Anime Merch",
+    "description": "Custom keycaps with designs from Sousou no Frieren.",
+    "price": 49.99
+  },
+  {
+    "id": 18,
+    "name": "Alya Poster",
+    "category": "Anime Merch",
+    "description": "A vibrant Alya poster to decorate your space.",
+    "price": 16.99
+  },
+  {
+    "id": 19,
+    "name": "Chainsaw Man Keychain",
+    "category": "Anime Merch",
+    "description": "A keychain featuring Chainsaw Man's iconic design.",
+    "price": 8.99
+  },
+  {
+    "id": 20,
+    "name": "Sousou no Frieren Poster",
+    "category": "Anime Merch",
+    "description": "A poster of Sousou no Frieren's stunning visuals.",
+    "price": 14.99
+  },
+  {
+    "id": 21,
+    "name": "Chibi Character Stickers",
+    "category": "Anime Merch",
+    "description": "Sticker set featuring chibi versions of anime characters.",
+    "price": 5.99
+  },
+  {
+    "id": 22,
+    "name": "Sketchbook",
+    "category": "Drawing Stuff",
+    "description": "A high-quality sketchbook for drawing and doodling.",
+    "price": 12.99
+  },
+  {
+    "id": 23,
+    "name": "Colored Pencils Set",
+    "category": "Drawing Stuff",
+    "description": "A set of 24 colored pencils for vibrant drawings.",
+    "price": 14.99
+  },
+  {
+    "id": 24,
+    "name": "Fine Liner Pen",
+    "category": "Drawing Stuff",
+    "description": "A fine liner pen for detailed sketches and outlines.",
+    "price": 2.99
+  },
+  {
+    "id": 25,
+    "name": "Erasable Markers",
+    "category": "Drawing Stuff",
+    "description": "Markers that can be easily erased for flexible drawing.",
+    "price": 9.99
+  },
+  {
+    "id": 26,
+    "name": "Watercolor Set",
+    "category": "Drawing Stuff",
+    "description": "A small watercolor set for painting.",
+    "price": 19.99
+  },
+  {
+    "id": 27,
+    "name": "Gel Pens",
+    "category": "Drawing Stuff",
+    "description": "A pack of vibrant gel pens for doodles and writing.",
+    "price": 6.99
+  },
+  {
+    "id": 28,
+    "name": "Drawing Tablet",
+    "category": "Drawing Stuff",
+    "description": "A basic drawing tablet for digital art.",
+    "price": 79.99
+  },
+  {
+    "id": 29,
+    "name": "Lavender Bath Bomb",
+    "category": "Relax Stuff",
+    "description": "A lavender-scented bath bomb for a relaxing soak.",
+    "price": 4.99
+  },
+  {
+    "id": 30,
+    "name": "Scented Candle",
+    "category": "Relax Stuff",
+    "description": "A calming vanilla-scented candle.",
+    "price": 12.99
+  },
+  {
+    "id": 31,
+    "name": "Aromatherapy Oil",
+    "category": "Relax Stuff",
+    "description": "Essential oil for relaxation and stress relief.",
+    "price": 9.99
+  },
+  {
+    "id": 32,
+    "name": "Silk Sleep Mask",
+    "category": "Relax Stuff",
+    "description": "A soft silk mask for a restful sleep.",
+    "price": 8.99
+  },
+  {
+    "id": 33,
+    "name": "Chamomile Tea Set",
+    "category": "Relax Stuff",
+    "description": "A set of chamomile tea bags to help you unwind.",
+    "price": 6.99
+  },
+  {
+    "id": 34,
+    "name": "Foot Spa Kit",
+    "category": "Relax Stuff",
+    "description": "A small kit for a relaxing foot soak at home.",
+    "price": 24.99
+  },
+  {
+    "id": 35,
+    "name": "Weighted Eye Pillow",
+    "category": "Relax Stuff",
+    "description": "A lightly weighted pillow to soothe tired eyes.",
+    "price": 10.99
+  },
+  {
+    "id": 36,
+    "name": "Enamel Cat Pin",
+    "category": "Accessories",
+    "description": "A cute enamel pin shaped like a cat.",
+    "price": 3.99
+  },
+  {
+    "id": 37,
+    "name": "Phone Case",
+    "category": "Accessories",
+    "description": "A pastel-colored phone case with a cute design.",
+    "price": 14.99
+  },
+  {
+    "id": 38,
+    "name": "Mini Backpack",
+    "category": "Accessories",
+    "description": "A small backpack perfect for carrying essentials.",
+    "price": 29.99
+  },
+  {
+    "id": 39,
+    "name": "Chibi Character Keychain",
+    "category": "Accessories",
+    "description": "A keychain featuring a chibi anime character.",
+    "price": 6.99
+  },
+  {
+    "id": 40,
+    "name": "Thigh-High Socks",
+    "category": "Accessories",
+    "description": "Comfortable thigh-high socks in cute patterns.",
+    "price": 12.99
+  },
+  {
+    "id": 41,
+    "name": "Cat Ear Headband",
+    "category": "Accessories",
+    "description": "A headband with adorable cat ears.",
+    "price": 8.99
+  },
+  {
+    "id": 42,
+    "name": "Sticker Pack",
+    "category": "Accessories",
+    "description": "A set of cute stickers for decorating.",
+    "price": 4.99
+  }
+]
+
+

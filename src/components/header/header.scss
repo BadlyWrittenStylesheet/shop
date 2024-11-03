@@ -1,0 +1,50 @@
+@import "../../colors.scss";
+
+.app-header-container {
+  // padding: 2em;
+
+  position: sticky;
+  top: 0;
+  z-index: 2136;
+  height: 8vh;
+    .header {
+        display: flex;
+        padding: 1rem 2rem;
+        justify-content: space-between;
+        align-items: center;
+      background: color-mix(in oklab, $dark, #0000);
+      backdrop-filter: blur(1rem);
+        font-size: 48px;
+        box-shadow: 0 2px 5px $dark;
+    }
+
+    .icon {
+      position: relative;
+
+      &:hover .item-number {
+        background: $accent;
+      }
+
+      .item-number {
+        font-weight: bold;
+        display: grid;
+        place-items: center;
+        inset: 55%;
+        bottom: 0;
+        right: 0;
+        font-size: 12px;
+        border-radius: 100%;
+        background: $primary;
+        color: $dark;
+        position: absolute;
+        transition: 300ms;
+
+
+      }
+    }
+}
+@media only screen and (max-width: 768px) {
+  .app-header-container {
+    position: initial;
+  }
+}

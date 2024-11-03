@@ -1,0 +1,27 @@
+@import "./colors.scss";
+
+body {
+  margin: 0;
+  font-family: $ffbody, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: $text;
+  transition: 300ms;
+  background-color: $dark;
+}
+
+button {
+  font-family: inherit;
+}
+
+h1, h2 , h3, h4, h5, h6 {
+  font-family: $ffdisplay;
+  // font-weight: bold;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

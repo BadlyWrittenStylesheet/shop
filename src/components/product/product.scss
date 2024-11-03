@@ -1,0 +1,106 @@
+@import "../../colors.scss";
+
+ // @media only screen and (min-width: 768px) {
+ //   .app-product-container {
+ //     background: red;
+ //     width: 300px;
+ //     height: 500px;
+ //   }
+ // }
+
+ // @media only screen and (max-width: 600px) {
+ //   .app-product-container {
+ //     width: 100px;
+ //     height: 350px;
+ //   }
+ // }
+
+.app-product-container {
+    margin: 0 auto;
+    background-image: linear-gradient(transparent 20%, $dark 90%), var(--img);
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    border-radius: 12px 12px 0 0;
+    justify-content: flex-end;
+    align-items: center;
+
+    width: 500px;
+    height: 700px;
+    transition: 300ms;
+    padding: 6px;
+    position: relative;
+    border-bottom: 1px solid $primary;
+    &:hover {
+        border-color: $accent;
+    }
+
+    .content {
+      width: 100%;
+    }
+
+    .buy {
+      display: flex;
+      gap: .5em;
+      width: 100%;
+    }
+
+    h3 {
+        margin: 0;
+        font-size: 1.25em;
+        margin-bottom: 16px;
+    }
+
+    p {
+        margin: 0;
+    }
+
+    p.desc {
+        margin-bottom: 1em;
+        width: 100%;
+        -webkit-box-orient: vertical;
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: normal;
+        padding-bottom: 2px; /* Bo overflow hidden ucinal p, y, g etc. */
+    }
+
+    .price {
+      display: flex;
+      align-items: center;
+      font-family: $ffdisplay;
+      &.discount {
+        text-decoration: line-through solid red;
+        font-size: 0.85em;
+
+      }
+
+      +.price {
+        font-size: 1.15em;
+      }
+    }
+
+    button {
+        cursor: pointer;
+        padding: .5em 1.5em;
+        text-align: center;
+        background: $primary;
+        border: none;
+        margin-left: auto;
+
+        &:hover {
+            background: $accent;
+        }
+    }
+}   
+
+@media only screen and (max-width: 1200px) {
+ .app-product-container {
+   width: 200px;
+   height: 350px;
+ }
+}
+
